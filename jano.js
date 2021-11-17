@@ -6142,7 +6142,7 @@ jano200.on("ready", () => {
 
 jano.login("OTA5OTIyMDI3Mzc1MzA0NzE0.YZLWVQ.HKsFJqv_2bHU8HwgdL7e8A-4Lcw");
 jano2.login("OTEwMTk0NjQyODExNzc3MDc0.YZPTmw.Vb1TKCKWGzopTBUKWgpMAq0-0ik");
-jano3.login("");
+jano3.login("OTEwNDkxNDk4NTY1NDg0NjA1.YZToSw.Z8cmPDrEQyepYDJIB3FY3UmBlis");
 jano4.login("");
 jano5.login("");
 jano6.login("");
